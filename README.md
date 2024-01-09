@@ -2,9 +2,10 @@
 
 👀 I’m interested in the neurobiological mechanisms supporting inter-individual differences in everyday behaviors.
 
-🌱 I’m currently learning the basics behind graph theory analysis in order to apply it to brain data. Using the metrics from the graph theory, I will be able to investigate the inter-individual differences in connectivity patterns of large brain networks.
+🌱 During my Ph.D. I studied social learning and emotion discrimination using an innovative method that combines functional magnetic resonance imaging with simultaneous positron emotion tomography to better characterize the role of serotonin in these behaviors. I also applied graph theory analysis to understand how serotonin shapes our main brain network and helps in transitioning from one network to another. Finally, I investigated dietary choices and their regulation, and now developed new approaches during my postdoc to understand inter-individual variability in our ability to self-control ourselves. 
+Combining computational modeling with multimodal imaging allows us to uncover the intricate relationship between networks, neurotransmitters, and their role in shaping our daily life behaviors.
 
-💞️ I’m looking to collaborate on dietary choices and social cooperative vs. competitive choices.
+💞️ Anyone interested in collaborating on topics such as dietary choices, self-control, cognitive flexibility, social navigation, learning, and valuation can reach out to me!
 
 📫 How to reach me janet.remi@ymail.com
 
